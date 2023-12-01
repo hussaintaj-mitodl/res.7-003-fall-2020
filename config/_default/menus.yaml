@@ -3,7 +3,7 @@ leftnav:
   name: Online Publication
   url: https://bravenewplanet.org/
   weight: 10
-- identifier: external-1262203527-1701420054981
+- identifier: external-1262203527-1701420071794
   name: A Learner's Guide
   params:
     includeLicenseWarning: false
