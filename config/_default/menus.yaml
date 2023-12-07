@@ -1,13 +1,9 @@
 leftnav:
-- identifier: external--1836900334-1701420104988
+- identifier: external-6db1d735e4114f3ab94ae915e25f7dea
   name: Online Publication
-  params:
-    includeLicenseWarning: false
   url: https://bravenewplanet.org/
   weight: 10
-- identifier: external-1262203527-1701420087437
+- identifier: external-1262203527-1650549636442
   name: A Learner's Guide
-  params:
-    includeLicenseWarning: false
   url: https://www.ocw-openmatters.org/2020/11/02/brave-new-planet-a-learners-guide/
   weight: 20
